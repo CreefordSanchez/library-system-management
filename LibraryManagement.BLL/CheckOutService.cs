@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace LibraryManagement.BLL {
-    internal class CheckOutService {
+    public class CheckOutService {
     }
 }
