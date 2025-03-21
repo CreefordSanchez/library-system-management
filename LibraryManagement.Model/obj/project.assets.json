@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.Model\\LibraryManagement.Model.csproj",
+      "projectUniqueName": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\test\\LibraryManagement.Model\\LibraryManagement.Model.csproj",
       "projectName": "LibraryManagement.Model",
-      "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.Model\\LibraryManagement.Model.csproj",
+      "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\test\\LibraryManagement.Model\\LibraryManagement.Model.csproj",
       "packagesPath": "C:\\Users\\foxchan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.Model\\obj\\",
+      "outputPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\test\\LibraryManagement.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
