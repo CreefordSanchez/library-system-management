@@ -5,9 +5,6 @@
       "LibraryManagement.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "LibraryManagement.Model": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/LibraryManagement.DAL.dll": {}
         },
@@ -52,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
       "projectName": "LibraryManagement.BLL",
-      "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
+      "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.BLL\\LibraryManagement.BLL.csproj",
       "packagesPath": "C:\\Users\\foxchan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.BLL\\obj\\",
+      "outputPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,11 +74,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
-              "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj"
+            "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj": {
+              "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.DAL\\LibraryManagement.DAL.csproj"
             },
-            "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.Model\\LibraryManagement.Model.csproj": {
-              "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\Library Project\\LibraryManagement.Model\\LibraryManagement.Model.csproj"
+            "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.Model\\LibraryManagement.Model.csproj": {
+              "projectPath": "C:\\Users\\foxchan\\OneDrive\\Desktop\\Code folder\\Back End Class\\Advance DataBase and ORM\\assigntment\\FinalProject\\LibraryManagement.Model\\LibraryManagement.Model.csproj"
             }
           }
         }
